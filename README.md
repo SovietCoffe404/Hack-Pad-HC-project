@@ -8,6 +8,7 @@ I've included the following files in the PCB
 The Hack pad firmware has these files
 -Keymap.Json
 -Firmware in .Hex to burn it into the keyboard
+-Firmware code in .rar
 And last but not least in the CAD you can find the following files
 -The top and the bottom case
 -The model of the assembled case
