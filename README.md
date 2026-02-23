@@ -20,11 +20,16 @@ Here are some SS about the project
 <img width="1796" height="941" alt="Case" src="https://github.com/user-attachments/assets/8ef7a2c6-7d24-45f8-ada2-3e5f3edd8f69" />
 <img width="1919" height="1003" alt="Screenshot 2026-02-08 205239" src="https://github.com/user-attachments/assets/8ede303d-517d-4f03-8a0f-822c40caaa6f" />
 <img width="1789" height="951" alt="Screenshot 2026-01-30 132639" src="https://github.com/user-attachments/assets/a689b9f3-cdd9-4333-9b03-56f93fc3b655" />
-<img width="1919" height="1007" <img width="1789" height="961" alt="Screenshot 2026-01-30 125337" src="https://github.com/user-attachments/assets/8fb50b12-ed67-42b5-86eb-4083767f5a32" />alt="Screenshot 2026-02-08 205339" src="https://github.com/user-attachments/assets/96dcf50e-3665-4d5b-91fa-5f2cb23f7067" />
+<img width="1789" height="961" alt="Screenshot 2026-01-30 125337" src="https://github.com/user-attachments/assets/8fb50b12-ed67-42b5-86eb-4083767f5a32" />
+<img width="1919" height="1007" alt="Screenshot 2026-02-08 205339" src="https://github.com/user-attachments/assets/96dcf50e-3665-4d5b-91fa-5f2cb23f7067" />
 
 BOM:
+
 -4 SW_Push
+
 -1 XIAO-RP2040-DIP
+
 -2 SK6812MINI LED
+
 -PLA filament
 
