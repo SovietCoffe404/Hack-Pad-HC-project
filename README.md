@@ -1,15 +1,16 @@
 # Hack-Pad-HC-project
 This is my Hack Pad for Hack Club
-I've included the following files in the "PCB.zip"
+I've included the following files in the PCB 
 -Gerber
 -.kicad_pcb
 -.kicadsch
 -.kicadpro
-The "Hack Pad firmware.zip" has these files
+The Hack pad firmware has these files
 -Keymap.Json
 -Firmware in .Hex to burn it into the keyboard
-And last but not least in the "CAD.zip" you can find the following files
+And last but not least in the CAD you can find the following files
 -The top and the bottom case
+-The model of the assembled case
 -A .stl file of two of the cases for 3D printing
 Here are some SS about the project
 <img width="1788" height="934" alt="Upper case" src="https://github.com/user-attachments/assets/25f52556-5f8c-4119-8fea-102fca604758" />
@@ -21,3 +22,9 @@ Here are some SS about the project
 <img width="1789" height="951" alt="Screenshot 2026-01-30 132639" src="https://github.com/user-attachments/assets/a689b9f3-cdd9-4333-9b03-56f93fc3b655" />
 <img width="1919" height="1007" <img width="1789" height="961" alt="Screenshot 2026-01-30 125337" src="https://github.com/user-attachments/assets/8fb50b12-ed67-42b5-86eb-4083767f5a32" />
 alt="Screenshot 2026-02-08 205339" src="https://github.com/user-attachments/assets/96dcf50e-3665-4d5b-91fa-5f2cb23f7067" />
+BOM:
+-4 SW_Push
+-1 XIAO-RP2040-DIP
+-2 SK6812MINI LED
+-PLA filament
+
